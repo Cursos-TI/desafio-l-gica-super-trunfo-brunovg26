@@ -10,6 +10,11 @@ int main() {
     // Você pode utilizar o código do primeiro desafio
 
     
+    if (ataque1>ataque2){
+    printf("Carta1 venceu!/n");
+}else{
+    printf("Carta2 venceu!/n");
+}
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
