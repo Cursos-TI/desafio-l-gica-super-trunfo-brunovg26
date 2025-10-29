@@ -5,7 +5,7 @@ int main() {
     int populacao1, populacao2;
 
     printf(" Comparação de cartas \n\n");
-
+    
     // Entrada de dados
     printf("Digite a populacao de São Paulo(SP): ");
     scanf("%d", &populacao1);
